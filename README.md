@@ -4,6 +4,10 @@ This repository demonstrates a simple smart contract project built and deployed 
 
 ## Overview
 
+## Overview
+
+- Network: Base Mainnet
+- Chain ID: 8453
 - Network: Base
 - Language: Solidity
 - Purpose: Educational and developer activity on Base ecosystem
