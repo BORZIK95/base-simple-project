@@ -17,6 +17,13 @@ This repository demonstrates a simple smart contract project built and deployed 
 The smart contract for this project is written in Solidity and is intended to demonstrate basic deployment and interaction on Base.
 
 > Contract address will be added after deployment.
+>## Deployed Contract
+
+- Network: Base Mainnet
+- Chain ID: 8453
+- Contract address: 0x551B96aFE97aA9C56850DEb051299577333f4A21
+- Deployment tool: Remix IDE
+- Wallet: Rabby Wallet
 
 ## Developer Notes
 
